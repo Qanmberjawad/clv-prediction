@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data files (do NOT upload raw/processed data)
+data/raw/
+data/processed/
+
+# Models
+models/
+*.pkl
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
