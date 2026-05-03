@@ -53,7 +53,17 @@ clv-prediction/
 
 ---
 
-## 📌 Future Work
-- Model optimization
+## 🚀 CLV Prediction App
+
+This project predicts Customer Lifetime Value using Machine Learning.
+
+### Features:
+- RFM-based feature engineering
+- Linear Regression model
+- Interactive Streamlit app
+- Customer segmentation (Low / Medium / High)
+
+### Screenshot:
+![App Screenshot](assets/app_screenshot.png)
 - Advanced feature engineering
 - Deployment and UI improvements
